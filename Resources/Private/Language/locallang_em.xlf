@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2015-01-11T17:54:12Z" product-name="lang">
+        <header/>
+        <body>
+            <trans-unit id="additionalAttributesForAllElements" xml:space="preserve">
+                <source>All elements attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForButtonElement" xml:space="preserve">
+                <source>"Button" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForCheckboxElement" xml:space="preserve">
+                <source>"Checkbox" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForCheckboxGroupElement" xml:space="preserve">
+                <source>"CheckboxGroup" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForFieldsetElement" xml:space="preserve">
+                <source>"Fieldset" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForFileuploadElement" xml:space="preserve">
+                <source>"Fileupload" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForHiddenElement" xml:space="preserve">
+                <source>"Hidden" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForImagebuttonElement" xml:space="preserve">
+                <source>"ImageButton" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForOptgroupElement" xml:space="preserve">
+                <source>"Optgroup" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForOptionElement" xml:space="preserve">
+                <source>"Option" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForPasswordElement" xml:space="preserve">
+                <source>"Password" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForRadioElement" xml:space="preserve">
+                <source>"Radio" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForRadioGroupElement" xml:space="preserve">
+                <source>"RadioGroup" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForResetElement" xml:space="preserve">
+                <source>"Reset" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForSelectElement" xml:space="preserve">
+                <source>"Select" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForSubmitElement" xml:space="preserve">
+                <source>"Submit" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForTextareaElement" xml:space="preserve">
+                <source>"Textarea" element's attributes</source>
+            </trans-unit>
+            <trans-unit id="additionalAttributesForTextlineElement" xml:space="preserve">
+                <source>"Textline" element's attributes</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

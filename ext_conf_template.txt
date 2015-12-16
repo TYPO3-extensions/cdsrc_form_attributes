@@ -1,0 +1,53 @@
+# cat=Basic/enable/1; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForAllElements
+additionalAttributesForAllElements = data-*
+
+# cat=Basic/enable/2; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForButtonElement
+additionalAttributesForButtonElement = 
+
+# cat=Basic/enable/3; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForCheckboxElement
+additionalAttributesForCheckboxElement = 
+
+# cat=Basic/enable/4; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForCheckboxGroupElement
+additionalAttributesForCheckboxGroupElement = 
+
+# cat=Basic/enable/5; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForFieldsetElement
+additionalAttributesForFieldsetElement = 
+
+# cat=Basic/enable/6; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForFileuploadElement
+additionalAttributesForFileuploadElement = 
+
+# cat=Basic/enable/7; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForHiddenElement
+additionalAttributesForHiddenElement = 
+
+# cat=Basic/enable/8; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForImagebuttonElement
+additionalAttributesForImagebuttonElement = 
+
+# cat=Basic/enable/9; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForOptgroupElement
+additionalAttributesForOptgroupElement = 
+
+# cat=Basic/enable/10; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForOptionElement
+additionalAttributesForOptionElement = 
+
+# cat=Basic/enable/11; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForPasswordElement
+additionalAttributesForPasswordElement = placeholder
+
+# cat=Basic/enable/12; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForRadioElement
+additionalAttributesForRadioElement = 
+
+# cat=Basic/enable/13; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForRadioGroupElement
+additionalAttributesForRadioGroupElement = 
+
+# cat=Basic/enable/14; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForResetElement
+additionalAttributesForResetElement = 
+
+# cat=Basic/enable/15; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForSelectElement
+additionalAttributesForSelectElement = 
+
+# cat=Basic/enable/16; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForSubmitElement
+additionalAttributesForSubmitElement = 
+
+# cat=Basic/enable/17; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForTextareaElement
+additionalAttributesForTextareaElement = placeholder
+
+# cat=Basic/enable/18; type=string; label=LLL:EXT:cdsrc_form_attributes/Resources/Private/Language/locallang_em.xlf:additionalAttributesForTextlineElement
+additionalAttributesForTextlineElement = placeholder
